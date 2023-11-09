@@ -1,0 +1,18 @@
+.box {
+  background-color: rgb(38, 36, 36);
+  color: white;
+  justify-content: center;
+}
+
+table,
+th {
+  border: 1px solid white;
+  border-collapse: collapse;
+  border-radius: 5px;
+  white-space: nowrap;
+}
+
+h2 {
+  background-color: transparent;
+  margin: 0;
+}
