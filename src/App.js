@@ -1,10 +1,9 @@
-import React from 'react';
-import UserTable from './components/UserTable';
+import UserDetails from './components/UserDetails';
 
 function App() {
   return (
-    <div>
-      <UserTable />
+    <div className='App'>
+      <UserDetails/>
     </div>
   );
 }
